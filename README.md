@@ -1,16 +1,13 @@
-# stage_1
+# Shopping App
 
-A new Flutter project.
+To get the app running , go to the terminal and run `flutter run`
 
-## Getting Started
+## Hosted platform
 
-This project is a starting point for a Flutter application.
+This this app is hosted on Appetize.io , to access it use this link https://appetize.io/app/22fu35nt53pc2qm7chqzqykop4?device=pixel6pro&osVersion=14.0
 
-A few resources to get you started if this is your first Flutter project:
+## Looks and view
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Here is a pictorial view of the app
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt text](image.png)
